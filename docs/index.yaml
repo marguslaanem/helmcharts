@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nutanix-kubernetes:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-04-15T11:25:58.725046+03:00"
+    description: A Helm chart for Kubernetes on Nutanix
+    digest: 96fcfeeeafbd9a0a73165ef4d3ffdc5072e296c068961fd414d6ff9f9aeb144b
+    name: nutanix-kubernetes
+    type: application
+    urls:
+    - https://github.com/marguslaanem/helmcharts/nutanix-kubernetes-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-15T11:25:58.724122+03:00"
