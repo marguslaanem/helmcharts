@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   nutanix-kubernetes:
   - apiVersion: v2
+    appVersion: 0.2.6
+    created: "2025-05-05T15:07:54.644894+03:00"
+    description: A Helm chart for Kubernetes on Nutanix
+    digest: f888e1789e8601070b49646b1ec39e9fbed5f4c728baecbd7ea77afa30a206b9
+    name: nutanix-kubernetes
+    type: application
+    urls:
+    - https://marguslaanem.github.io/helmcharts/nutanix-kubernetes-0.2.6.tgz
+    version: 0.2.6
+  - apiVersion: v2
     appVersion: 0.2.5
-    created: "2025-04-16T15:08:53.547689+03:00"
+    created: "2025-05-05T15:07:54.644461+03:00"
     description: A Helm chart for Kubernetes on Nutanix
     digest: b90d18c08e97c95c1df3002584198945daadf19624ef791f055f153b55140158
     name: nutanix-kubernetes
@@ -13,7 +23,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2025-04-16T15:08:53.547304+03:00"
+    created: "2025-05-05T15:07:54.643871+03:00"
     description: A Helm chart for Kubernetes on Nutanix
     digest: 0343c985422e9c7b914303ebe0f9e752da16706e10e8bfa5045977b641f535fd
     name: nutanix-kubernetes
@@ -23,7 +33,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2025-04-16T15:08:53.546885+03:00"
+    created: "2025-05-05T15:07:54.6419+03:00"
     description: A Helm chart for Kubernetes on Nutanix
     digest: 84e8e8645ac127bb70f7300666412c2868c15b07665bdeebbf632995e9ea869b
     name: nutanix-kubernetes
@@ -33,7 +43,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2025-04-16T15:08:53.546492+03:00"
+    created: "2025-05-05T15:07:54.641346+03:00"
     description: A Helm chart for Kubernetes on Nutanix
     digest: 99d8b35b4980a97ef47f80a5b0201969c327e907173fb6b62e0485ba7ed764f7
     name: nutanix-kubernetes
@@ -43,7 +53,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2025-04-16T15:08:53.546076+03:00"
+    created: "2025-05-05T15:07:54.640824+03:00"
     description: A Helm chart for Kubernetes on Nutanix
     digest: 23073387d4106ed3171fe3edd439030005f061ff96e49aff73e0d8733bc3cfaa
     name: nutanix-kubernetes
@@ -53,7 +63,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2025-04-16T15:08:53.54565+03:00"
+    created: "2025-05-05T15:07:54.640252+03:00"
     description: A Helm chart for Kubernetes on Nutanix
     digest: 4ff51a21d7c7174e1fe28bdf9be84c825f4f8ea40ba247dfeeb70c6f16a921db
     name: nutanix-kubernetes
@@ -63,7 +73,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-04-16T15:08:53.543545+03:00"
+    created: "2025-05-05T15:07:54.639505+03:00"
     description: A Helm chart for Kubernetes on Nutanix
     digest: dc0796dd074320b3581fbe9c1ff57d78bcb0b6842dae2ddefc40072607b6cf0c
     name: nutanix-kubernetes
@@ -74,7 +84,7 @@ entries:
   nutanix-kubernetes-min:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-04-16T15:08:53.548355+03:00"
+    created: "2025-05-05T15:07:54.646512+03:00"
     description: A Helm chart for Kubernetes on Nutanix
     digest: 47d9fab8f2ab683167c1a92c142b10faa992a9a7a51c43b441bffd864c84ecf4
     name: nutanix-kubernetes-min
@@ -84,7 +94,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-04-16T15:08:53.548009+03:00"
+    created: "2025-05-05T15:07:54.645933+03:00"
     description: A Helm chart for Kubernetes on Nutanix
     digest: 8468a9099878283ed339da0831d7ca809d74021257d13bad75de0ac110e8be03
     name: nutanix-kubernetes-min
@@ -92,4 +102,4 @@ entries:
     urls:
     - https://marguslaanem.github.io/helmcharts/nutanix-kubernetes-min-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-16T15:08:53.542845+03:00"
+generated: "2025-05-05T15:07:54.638549+03:00"
